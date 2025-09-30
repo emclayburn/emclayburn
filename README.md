@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Take a look at my profile, the hockey site repository has a page that goes through basic hockey analysis using the St. Louis Blues
+
 <!--
 **emclayburn/emclayburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
